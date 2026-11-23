@@ -10,6 +10,15 @@ Schreibe Commit-Nachrichten auf Englisch im Conventional-Commits-Format.
 Verwende einen passenden Typ wie `chore`, `feat`, `fix` oder `docs`.
 Beispiel: `chore: configure engineering skills`.
 
+## Pull Requests
+
+Erstelle Pull Requests ausschliesslich mit dem Basis-Repository
+`Open-Data-Luzern/ogd-handbook-lu` und dem Basis-Branch `main`.
+Gib das Ziel explizit an, bei der GitHub CLI mit
+`gh pr create --repo Open-Data-Luzern/ogd-handbook-lu --base main`.
+Prüfe bei angelegten PRs und vor einem Merge das Basis-Repository und
+den Basis-Branch. Brich den Vorgang bei einem abweichenden Ziel ab.
+
 ## Agent skills
 
 ### Issue tracker

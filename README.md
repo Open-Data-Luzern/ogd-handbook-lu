@@ -4,7 +4,7 @@ In diesem Repository entsteht das **Handbuch für offene Verwaltungsdaten (Open 
 
 Informationen zu OGD und den verfügbaren Datenangeboten findest du auf der [OGD-Seite des Kantons Luzern](https://opendata.lu.ch/).
 
-## Geplante Kapitel
+## Inhalt
 
 | Kapitel | Thema                                       |
 | ------- | ------------------------------------------- |
@@ -28,14 +28,6 @@ npm run serve  # Build lokal im Browser öffnen
 
 ```
 
-## Mitarbeit
-
-Korrekturen, Ergänzungen und neue Seiten können über Pull Requests eingereicht werden. Hinweise und Vorschläge zum Handbuch kannst du als [GitHub-Issue erfassen](https://github.com/Open-Data-Luzern/ogd-handbook-lu/issues).
-
-## Kontakt
-
-Für Fragen zu offenen Verwaltungsdaten und zu Publikationsvorhaben erreichst du die OGD-Koordinationsstelle des Kantons Luzern unter [opendata@lu.ch](mailto:opendata@lu.ch).
-
 ## Dank
 
-Wir danken dem Kanton Zürich, dass er sein [OGD-Handbuch](https://github.com/openZH/ogd-handbook) zur Verfügung stellt. Es dient als Grundlage für die Luzerner Fassung.
+Wir danken dem Amt für Statistik und Daten des Kantons Zürich, dass es sein [OGD-Handbuch](https://github.com/openZH/ogd-handbook) zur Verfügung stellt. Es dient als Grundlage für die Luzerner Fassung.

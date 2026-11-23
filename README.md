@@ -1,15 +1,15 @@
-# OGD Handbuch Kanton Zürich
+# OGD-Handbuch des Kantons Luzern
 
-Dieses Repository enthält den Quellcode des **Open Government Data Handbuchs** des Kantons Zürich. Es richtet sich an Data Stewards und Mitarbeitende kantonaler Verwaltungseinheiten, die Daten als OGD publizieren möchten - sowie an alle, die offene Verwaltungsdaten des Kantons Zürich nutzen wollen.
+In diesem Repository entsteht das **Handbuch für offene Verwaltungsdaten (Open Government Data, OGD) des Kantons Luzern**. Es richtet sich an Mitarbeitende der kantonalen Verwaltung, die Daten als OGD veröffentlichen möchten, sowie an alle, die offene Verwaltungsdaten des Kantons Luzern finden und weiterverwenden wollen.
 
-👉 **[openzh.github.io/ogd-handbook](https://openzh.github.io/ogd-handbook/)**
+Informationen zu OGD und den verfügbaren Datenangeboten findest du auf der [OGD-Seite des Kantons Luzern](https://opendata.lu.ch/).
 
-## Inhalt
+## Geplante Kapitel
 
 | Kapitel | Thema                                       |
 | ------- | ------------------------------------------- |
 | 1       | OGD Grundlagen                              |
-| 2       | OGD im Kanton Zürich                        |
+| 2       | OGD im Kanton Luzern                        |
 | 3       | Datenstruktur & Format                      |
 | 4       | Metadaten                                   |
 | 5       | Anleitungen (R, Excel, Metadatenverwaltung) |
@@ -30,9 +30,12 @@ npm run serve  # Build lokal im Browser öffnen
 
 ## Mitarbeit
 
-Korrekturen, Ergänzungen und neue Seiten können über Pull Requests eingereicht werden. Fehler und Wünsche bitte als [Issue erfassen](https://github.com/openZH/ogd-handbook/issues) oder per E-Mail an [info@open.zh.ch](mailto:info@open.zh.ch). Vielen Dank!
+Korrekturen, Ergänzungen und neue Seiten können über Pull Requests eingereicht werden. Hinweise und Vorschläge zum Handbuch kannst du als [GitHub-Issue erfassen](https://github.com/Open-Data-Luzern/ogd-handbook-lu/issues).
 
 ## Kontakt
 
-**Amt für Statistik und Daten des Kantons Zürich**  
-[Fach- und Koordinationsstelle Open Government Data](https://www.zh.ch/de/direktion-der-justiz-und-des-innern/amt-fuer-statistik-und-daten/open-government-data.html#1128196644)
+Für Fragen zu offenen Verwaltungsdaten und zu Publikationsvorhaben erreichst du die OGD-Koordinationsstelle des Kantons Luzern unter [opendata@lu.ch](mailto:opendata@lu.ch).
+
+## Dank
+
+Wir danken dem Kanton Zürich, dass er sein [OGD-Handbuch](https://github.com/openZH/ogd-handbook) zur Verfügung stellt. Es dient als Grundlage für die Luzerner Fassung.

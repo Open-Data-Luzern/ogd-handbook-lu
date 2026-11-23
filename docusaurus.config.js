@@ -61,6 +61,15 @@ const config = {
           sidebarPath: "./sidebars.js",
           routeBasePath: "/",
           breadcrumbs: false,
+          // Preserve the default exclusions and omit repository guidance.
+          exclude: [
+            "**/_*.{js,jsx,ts,tsx,md,mdx}",
+            "**/_*/**",
+            "**/*.test.{js,jsx,ts,tsx}",
+            "**/__tests__/**",
+            "agents/**",
+            "adr/**",
+          ],
         },
         blog: {
           showReadingTime: true,
